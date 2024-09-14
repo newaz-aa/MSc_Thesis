@@ -16,5 +16,5 @@ This repo contains files related to my MSc Thesis. Supplementary files for diffe
 
 1. Efficacy analysis  - https://github.com/newaz-aa/Sampling-algorithms-experimental-analysis
 2. 'iBRF: Improved Balanced Random Forest Classifier' - https://github.com/newaz-aa/iBRF
-3. 'UniSyn - Unified Sampling framework'- [https://github.com/newaz-aa/Hybrid-Sampling](https://github.com/newaz-aa/UniSyn)
+3. 'UniSyn - Unified Sampling framework'- https://github.com/newaz-aa/UniSyn
 4. 'iCost: Instance complexity-based cost-sensitive learning' - https://github.com/newaz-aa/Modified_Cost_Sensitive_Classifier
