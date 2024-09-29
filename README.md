@@ -33,3 +33,6 @@ The following works have been published:
 
 1. Newaz, A., Mohosheu, M.S., Al Noman, M.A. and Jabid, T., 2024, April. iBRF: Improved Balanced Random Forest Classifier. In 2024 35th Conference of Open Innovations Association (FRUCT) (pp. 501-508). IEEE.
 2. Mohosheu, M.S., al Noman, M.A., Newaz, A. and Jabid, T., 2024, May. A Comprehensive Evaluation of Sampling Techniques in Addressing Class Imbalance Across Diverse Datasets. In 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT) (pp. 1008-1013). IEEE.
+
+A couple of other papers are currently under review:
+1. Newaz, A., Adib, A.U.R. and Jabid, T., 2024. iCost: A Novel Instance Complexity Based Cost-Sensitive Learning Framework for Imbalanced Classification. arXiv preprint arXiv:2409.13007.
