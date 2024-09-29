@@ -16,9 +16,10 @@ Class imbalance is a frequently occurring scenario in classification tasks. Lear
 * iCost: A Novel Instance Complexity-Based Cost-Sensitive Learning Framework -- A novel cost-sensitive approach has been developed that offers better prediction performance compared to traditional cost-sensitive learning approaches.
 
 A detailed description of the work can be found in the thesis book. 
-## Thesis Book
 
-Arxiv:
+## Thesis Book
+Link: (Waiting to be updated in the university library) 
+
 ## Codes and Associated Files
 
 Files for different portions are available in the following repositories -
