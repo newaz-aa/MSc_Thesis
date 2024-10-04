@@ -17,6 +17,9 @@ Class imbalance is a frequently occurring scenario in classification tasks. Lear
 
 A detailed description of the work can be found in the thesis book. 
 
+## Presentation 
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=qgHpzx3N5iU&ab_channel=TheGrayWolf) 
+
 ## Thesis Book
 Link: (Waiting to be updated in the university library) 
 
